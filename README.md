@@ -164,7 +164,7 @@ The Excel dashboard provides supporting analysis of customer reviews through KPI
 </p>
 
 <p align="center">
-<img src="Screenshots/Excel_Dashboard.png" alt="Fast Delivery Excel Dashboard" width="100%">
+<img src="https://github.com/souravpatra82/Fast-Delivery-Customer-Experience/blob/534f257b6b4895cd0f9e45301c1fe9a79f2f6188/Fast_Delivery_Excel_Dashboard/Fast_Delivery_Excel_Dashboard.xlsx.png">
 </p>
 
 <ul>
@@ -190,7 +190,7 @@ The Power BI dashboard is the main interactive solution. It combines KPI cards, 
 </p>
 
 <p align="center">
-<img src="Screenshots/PowerBI_Dashboard.png" alt="Fast Delivery Power BI Dashboard" width="100%">
+<img src="https://github.com/souravpatra82/Fast-Delivery-Customer-Experience/blob/534f257b6b4895cd0f9e45301c1fe9a79f2f6188/Fast_Delivery_Power_BI_Dashboard/Fast_Delivery_Power_BI_Dashboard.pbix.png">
 </p>
 
 <ul>
