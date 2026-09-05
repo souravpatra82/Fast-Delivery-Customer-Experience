@@ -134,21 +134,19 @@ The main objective is to convert customer review data into clear operational ins
 Fast-Delivery-Customer-Experience/
 │
 ├── Fast_Delivery_Excel_Dashboard/
-│   └── Fast_Delivery_Excel_Dashboard.xlsx
-│
+│   ├── Fast Delivery Agent Reviews.xlsx
+│   └── Fast_Delivery_Excel_Dashboard.xlsx.png    
+|
 ├── Fast_Delivery_Power_BI_Dashboard/
-│   └── Fast_Delivery_Power_BI_Dashboard.pbix
-│
+│   ├── Fast Delivery Agent Review.pbix
+│   └── Fast_Delivery_Power_BI_Dashboard.pbix.png
+|
 ├── Fast_Delivery_Raw_Data/
 │   └── Fast_Delivery_Agent_Reviews.csv
 │
 ├── Fast_Delivery_Report/
 │   ├── Fast_Delivery_Document_Report.docx
 │   └── Fast_Delivery_PPT_Report.pptx
-│
-├── Screenshots/
-│   ├── Excel_Dashboard.png
-│   └── PowerBI_Dashboard.png
 │
 └── README.md
 </pre>
