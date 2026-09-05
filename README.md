@@ -323,7 +323,11 @@ Passionate about Data Analytics, Business Intelligence, Data Visualization, and 
 </p>
 
 <p>
-💻 GitHub: <a href="https://github.com/">Visit My GitHub Profile</a>
+💻 <b> GitHub:</b><br> <a href="https://github.com/souravpatra82">Visit My GitHub Profile</a>
+</p>
+
+<p>
+🔗 <b>LinkedIn:</b><br> <a href="https://www.linkedin.com/in/sourav-patra-5041212a7/">Visit My LinkedIn Profile</a>
 </p>
 
 <hr>
